@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="grad <= 0.087\ngini = 0.495\nsamples = 1072\nvalue = [592, 480]\nclass = under", fillcolor="#fae7da"] ;
+1 [label="Median income (dollars) <= 63651.0\ngini = 0.489\nsamples = 467\nvalue = [199, 268]\nclass = over", fillcolor="#cce6f8"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="Public Yes/No <= 0.5\ngini = 0.455\nsamples = 272\nvalue = [95, 177]\nclass = over", fillcolor="#a3d2f3"] ;
+1 -> 2 ;
+3 [label="gini = 0.432\nsamples = 19\nvalue = [13, 6]\nclass = under", fillcolor="#f1bb94"] ;
+2 -> 3 ;
+4 [label="gini = 0.438\nsamples = 253\nvalue = [82, 171]\nclass = over", fillcolor="#98ccf1"] ;
+2 -> 4 ;
+5 [label="none <= 0.083\ngini = 0.498\nsamples = 195\nvalue = [104, 91]\nclass = under", fillcolor="#fcefe6"] ;
+1 -> 5 ;
+6 [label="gini = 0.494\nsamples = 185\nvalue = [103, 82]\nclass = under", fillcolor="#fae5d7"] ;
+5 -> 6 ;
+7 [label="gini = 0.18\nsamples = 10\nvalue = [1, 9]\nclass = over", fillcolor="#4fa8e8"] ;
+5 -> 7 ;
+8 [label="Charter Yes/No <= 0.5\ngini = 0.455\nsamples = 605\nvalue = [393, 212]\nclass = under", fillcolor="#f3c5a4"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="Public Yes/No <= 0.5\ngini = 0.436\nsamples = 520\nvalue = [353, 167]\nclass = under", fillcolor="#f1bd97"] ;
+8 -> 9 ;
+10 [label="gini = 0.36\nsamples = 157\nvalue = [120, 37]\nclass = under", fillcolor="#eda876"] ;
+9 -> 10 ;
+11 [label="gini = 0.46\nsamples = 363\nvalue = [233, 130]\nclass = under", fillcolor="#f4c7a7"] ;
+9 -> 11 ;
+12 [label="none <= 0.025\ngini = 0.498\nsamples = 85\nvalue = [40, 45]\nclass = over", fillcolor="#e9f4fc"] ;
+8 -> 12 ;
+13 [label="gini = 0.491\nsamples = 60\nvalue = [34, 26]\nclass = under", fillcolor="#f9e1d0"] ;
+12 -> 13 ;
+14 [label="gini = 0.365\nsamples = 25\nvalue = [6, 19]\nclass = over", fillcolor="#78bced"] ;
+12 -> 14 ;
+}

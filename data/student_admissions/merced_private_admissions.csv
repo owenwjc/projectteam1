@@ -1,0 +1,375 @@
+Calculation1,School,City,County/State/ Territory,Count,Uad Uc Ethn 6 Cat,School name,Pivot Field Values
+AQUINAS HIGH SCHOOL52772,AQUINAS HIGH SCHOOL,San Bernardino,San Bernardino,Adm,Inter- national,Aquinas high school,3
+AQUINAS HIGH SCHOOL52772,AQUINAS HIGH SCHOOL,San Bernardino,San Bernardino,App,Inter- national,Aquinas high school,7
+AQUINAS HIGH SCHOOL52772,AQUINAS HIGH SCHOOL,San Bernardino,San Bernardino,Adm,Hispanic/ Latino,Aquinas high school,3
+AQUINAS HIGH SCHOOL52772,AQUINAS HIGH SCHOOL,San Bernardino,San Bernardino,App,Hispanic/ Latino,Aquinas high school,3
+AQUINAS HIGH SCHOOL52772,AQUINAS HIGH SCHOOL,San Bernardino,San Bernardino,Adm,All,Aquinas high school,7
+AQUINAS HIGH SCHOOL52772,AQUINAS HIGH SCHOOL,San Bernardino,San Bernardino,App,All,Aquinas high school,12
+ARCHBISHOP MITTY HIGH SCHOOL53078,ARCHBISHOP MITTY HIGH SCHOOL,San Jose,Santa Clara,Adm,White,Archbishop mitty high school,6
+ARCHBISHOP MITTY HIGH SCHOOL53078,ARCHBISHOP MITTY HIGH SCHOOL,San Jose,Santa Clara,App,White,Archbishop mitty high school,7
+ARCHBISHOP MITTY HIGH SCHOOL53078,ARCHBISHOP MITTY HIGH SCHOOL,San Jose,Santa Clara,Enr,Asian,Archbishop mitty high school,3
+ARCHBISHOP MITTY HIGH SCHOOL53078,ARCHBISHOP MITTY HIGH SCHOOL,San Jose,Santa Clara,Adm,Asian,Archbishop mitty high school,22
+ARCHBISHOP MITTY HIGH SCHOOL53078,ARCHBISHOP MITTY HIGH SCHOOL,San Jose,Santa Clara,App,Asian,Archbishop mitty high school,24
+ARCHBISHOP MITTY HIGH SCHOOL53078,ARCHBISHOP MITTY HIGH SCHOOL,San Jose,Santa Clara,Adm,Hispanic/ Latino,Archbishop mitty high school,7
+ARCHBISHOP MITTY HIGH SCHOOL53078,ARCHBISHOP MITTY HIGH SCHOOL,San Jose,Santa Clara,App,Hispanic/ Latino,Archbishop mitty high school,7
+ARCHBISHOP MITTY HIGH SCHOOL53078,ARCHBISHOP MITTY HIGH SCHOOL,San Jose,Santa Clara,Enr,All,Archbishop mitty high school,4
+ARCHBISHOP MITTY HIGH SCHOOL53078,ARCHBISHOP MITTY HIGH SCHOOL,San Jose,Santa Clara,Adm,All,Archbishop mitty high school,36
+ARCHBISHOP MITTY HIGH SCHOOL53078,ARCHBISHOP MITTY HIGH SCHOOL,San Jose,Santa Clara,App,All,Archbishop mitty high school,40
+ARCHBISHOP RIORDAN HIGH SCHOOL53000,ARCHBISHOP RIORDAN HIGH SCHOOL,San Francisco,San Francisco,App,Asian,Archbishop riordan high school,3
+ARCHBISHOP RIORDAN HIGH SCHOOL53000,ARCHBISHOP RIORDAN HIGH SCHOOL,San Francisco,San Francisco,Adm,Hispanic/ Latino,Archbishop riordan high school,3
+ARCHBISHOP RIORDAN HIGH SCHOOL53000,ARCHBISHOP RIORDAN HIGH SCHOOL,San Francisco,San Francisco,App,Hispanic/ Latino,Archbishop riordan high school,3
+ARCHBISHOP RIORDAN HIGH SCHOOL53000,ARCHBISHOP RIORDAN HIGH SCHOOL,San Francisco,San Francisco,Adm,African American,Archbishop riordan high school,3
+ARCHBISHOP RIORDAN HIGH SCHOOL53000,ARCHBISHOP RIORDAN HIGH SCHOOL,San Francisco,San Francisco,App,African American,Archbishop riordan high school,3
+ARCHBISHOP RIORDAN HIGH SCHOOL53000,ARCHBISHOP RIORDAN HIGH SCHOOL,San Francisco,San Francisco,Adm,All,Archbishop riordan high school,13
+ARCHBISHOP RIORDAN HIGH SCHOOL53000,ARCHBISHOP RIORDAN HIGH SCHOOL,San Francisco,San Francisco,App,All,Archbishop riordan high school,14
+BAKERSFIELD CHRISTIAN HS50208,BAKERSFIELD CHRISTIAN HS,Bakersfield,Kern,App,African American,Bakersfield christian hs,3
+BAKERSFIELD CHRISTIAN HS50208,BAKERSFIELD CHRISTIAN HS,Bakersfield,Kern,Adm,All,Bakersfield christian hs,4
+BAKERSFIELD CHRISTIAN HS50208,BAKERSFIELD CHRISTIAN HS,Bakersfield,Kern,App,All,Bakersfield christian hs,5
+BELLARMINE COLLEGE PREPARATORY53080,BELLARMINE COLLEGE PREPARATORY,San Jose,Santa Clara,Adm,White,Bellarmine college preparatory,10
+BELLARMINE COLLEGE PREPARATORY53080,BELLARMINE COLLEGE PREPARATORY,San Jose,Santa Clara,App,White,Bellarmine college preparatory,10
+BELLARMINE COLLEGE PREPARATORY53080,BELLARMINE COLLEGE PREPARATORY,San Jose,Santa Clara,Adm,Asian,Bellarmine college preparatory,18
+BELLARMINE COLLEGE PREPARATORY53080,BELLARMINE COLLEGE PREPARATORY,San Jose,Santa Clara,App,Asian,Bellarmine college preparatory,18
+BELLARMINE COLLEGE PREPARATORY53080,BELLARMINE COLLEGE PREPARATORY,San Jose,Santa Clara,Enr,Hispanic/ Latino,Bellarmine college preparatory,3
+BELLARMINE COLLEGE PREPARATORY53080,BELLARMINE COLLEGE PREPARATORY,San Jose,Santa Clara,Adm,Hispanic/ Latino,Bellarmine college preparatory,13
+BELLARMINE COLLEGE PREPARATORY53080,BELLARMINE COLLEGE PREPARATORY,San Jose,Santa Clara,App,Hispanic/ Latino,Bellarmine college preparatory,18
+BELLARMINE COLLEGE PREPARATORY53080,BELLARMINE COLLEGE PREPARATORY,San Jose,Santa Clara,Enr,All,Bellarmine college preparatory,4
+BELLARMINE COLLEGE PREPARATORY53080,BELLARMINE COLLEGE PREPARATORY,San Jose,Santa Clara,Adm,All,Bellarmine college preparatory,48
+BELLARMINE COLLEGE PREPARATORY53080,BELLARMINE COLLEGE PREPARATORY,San Jose,Santa Clara,App,All,Bellarmine college preparatory,53
+BEREAN CHRISTIAN HIGH SCHOOL53683,BEREAN CHRISTIAN HIGH SCHOOL,Walnut Creek,Contra Costa,Adm,All,Berean christian high school,3
+BEREAN CHRISTIAN HIGH SCHOOL53683,BEREAN CHRISTIAN HIGH SCHOOL,Walnut Creek,Contra Costa,App,All,Berean christian high school,3
+BISHOP ALEMANY HIGH SCHOOL52898,BISHOP ALEMANY HIGH SCHOOL,Mission Hills,Los Angeles,Adm,Asian,Bishop alemany high school,7
+BISHOP ALEMANY HIGH SCHOOL52898,BISHOP ALEMANY HIGH SCHOOL,Mission Hills,Los Angeles,App,Asian,Bishop alemany high school,7
+BISHOP ALEMANY HIGH SCHOOL52898,BISHOP ALEMANY HIGH SCHOOL,Mission Hills,Los Angeles,Adm,Hispanic/ Latino,Bishop alemany high school,7
+BISHOP ALEMANY HIGH SCHOOL52898,BISHOP ALEMANY HIGH SCHOOL,Mission Hills,Los Angeles,App,Hispanic/ Latino,Bishop alemany high school,8
+BISHOP ALEMANY HIGH SCHOOL52898,BISHOP ALEMANY HIGH SCHOOL,Mission Hills,Los Angeles,Adm,All,Bishop alemany high school,17
+BISHOP ALEMANY HIGH SCHOOL52898,BISHOP ALEMANY HIGH SCHOOL,Mission Hills,Los Angeles,App,All,Bishop alemany high school,18
+BISHOP CONATY OUR LADY LORETTO51552,BISHOP CONATY OUR LADY LORETTO,Los Angeles,Los Angeles,App,Hispanic/ Latino,Bishop conaty our lady loretto,8
+BISHOP CONATY OUR LADY LORETTO51552,BISHOP CONATY OUR LADY LORETTO,Los Angeles,Los Angeles,Adm,All,Bishop conaty our lady loretto,7
+BISHOP CONATY OUR LADY LORETTO51552,BISHOP CONATY OUR LADY LORETTO,Los Angeles,Los Angeles,App,All,Bishop conaty our lady loretto,8
+BISHOP MONTGOMERY HIGH SCHOOL53512,BISHOP MONTGOMERY HIGH SCHOOL,Torrance,Los Angeles,Adm,Hispanic/ Latino,Bishop montgomery high school,3
+BISHOP MONTGOMERY HIGH SCHOOL53512,BISHOP MONTGOMERY HIGH SCHOOL,Torrance,Los Angeles,App,Hispanic/ Latino,Bishop montgomery high school,3
+BISHOP MONTGOMERY HIGH SCHOOL53512,BISHOP MONTGOMERY HIGH SCHOOL,Torrance,Los Angeles,Adm,African American,Bishop montgomery high school,4
+BISHOP MONTGOMERY HIGH SCHOOL53512,BISHOP MONTGOMERY HIGH SCHOOL,Torrance,Los Angeles,App,African American,Bishop montgomery high school,4
+BISHOP MONTGOMERY HIGH SCHOOL53512,BISHOP MONTGOMERY HIGH SCHOOL,Torrance,Los Angeles,Adm,All,Bishop montgomery high school,11
+BISHOP MONTGOMERY HIGH SCHOOL53512,BISHOP MONTGOMERY HIGH SCHOOL,Torrance,Los Angeles,App,All,Bishop montgomery high school,11
+BISHOP ODOWD HIGH SCHOOL52185,BISHOP ODOWD HIGH SCHOOL,Oakland,Alameda,Adm,White,Bishop odowd high school,7
+BISHOP ODOWD HIGH SCHOOL52185,BISHOP ODOWD HIGH SCHOOL,Oakland,Alameda,App,White,Bishop odowd high school,7
+BISHOP ODOWD HIGH SCHOOL52185,BISHOP ODOWD HIGH SCHOOL,Oakland,Alameda,Adm,Asian,Bishop odowd high school,6
+BISHOP ODOWD HIGH SCHOOL52185,BISHOP ODOWD HIGH SCHOOL,Oakland,Alameda,App,Asian,Bishop odowd high school,6
+BISHOP ODOWD HIGH SCHOOL52185,BISHOP ODOWD HIGH SCHOOL,Oakland,Alameda,Adm,African American,Bishop odowd high school,5
+BISHOP ODOWD HIGH SCHOOL52185,BISHOP ODOWD HIGH SCHOOL,Oakland,Alameda,App,African American,Bishop odowd high school,5
+BISHOP ODOWD HIGH SCHOOL52185,BISHOP ODOWD HIGH SCHOOL,Oakland,Alameda,Enr,All,Bishop odowd high school,3
+BISHOP ODOWD HIGH SCHOOL52185,BISHOP ODOWD HIGH SCHOOL,Oakland,Alameda,Adm,All,Bishop odowd high school,21
+BISHOP ODOWD HIGH SCHOOL52185,BISHOP ODOWD HIGH SCHOOL,Oakland,Alameda,App,All,Bishop odowd high school,21
+CANTWELL/SACRED HEART MARY HS52020,CANTWELL/SACRED HEART MARY HS,Montebello,Los Angeles,App,Hispanic/ Latino,Cantwell/sacred heart mary hs,7
+CANTWELL/SACRED HEART MARY HS52020,CANTWELL/SACRED HEART MARY HS,Montebello,Los Angeles,Adm,All,Cantwell/sacred heart mary hs,7
+CANTWELL/SACRED HEART MARY HS52020,CANTWELL/SACRED HEART MARY HS,Montebello,Los Angeles,App,All,Cantwell/sacred heart mary hs,7
+CAPITAL CHRISTIAN HIGH SCHOOL52708,CAPITAL CHRISTIAN HIGH SCHOOL,Sacramento,Sacramento,App,African American,Capital christian high school,4
+CAPITAL CHRISTIAN HIGH SCHOOL52708,CAPITAL CHRISTIAN HIGH SCHOOL,Sacramento,Sacramento,Adm,All,Capital christian high school,4
+CAPITAL CHRISTIAN HIGH SCHOOL52708,CAPITAL CHRISTIAN HIGH SCHOOL,Sacramento,Sacramento,App,All,Capital christian high school,4
+CATHEDRAL HIGH SCHOOL51560,CATHEDRAL HIGH SCHOOL,Los Angeles,Los Angeles,Enr,Hispanic/ Latino,Cathedral high school,3
+CATHEDRAL HIGH SCHOOL51560,CATHEDRAL HIGH SCHOOL,Los Angeles,Los Angeles,Adm,Hispanic/ Latino,Cathedral high school,13
+CATHEDRAL HIGH SCHOOL51560,CATHEDRAL HIGH SCHOOL,Los Angeles,Los Angeles,App,Hispanic/ Latino,Cathedral high school,16
+CATHEDRAL HIGH SCHOOL51560,CATHEDRAL HIGH SCHOOL,Los Angeles,Los Angeles,Enr,All,Cathedral high school,4
+CATHEDRAL HIGH SCHOOL51560,CATHEDRAL HIGH SCHOOL,Los Angeles,Los Angeles,Adm,All,Cathedral high school,15
+CATHEDRAL HIGH SCHOOL51560,CATHEDRAL HIGH SCHOOL,Los Angeles,Los Angeles,App,All,Cathedral high school,19
+CHRISTIAN BROTHERS HIGH SCHOOL52697,CHRISTIAN BROTHERS HIGH SCHOOL,Sacramento,Sacramento,Adm,White,Christian brothers high school,5
+CHRISTIAN BROTHERS HIGH SCHOOL52697,CHRISTIAN BROTHERS HIGH SCHOOL,Sacramento,Sacramento,App,White,Christian brothers high school,5
+CHRISTIAN BROTHERS HIGH SCHOOL52697,CHRISTIAN BROTHERS HIGH SCHOOL,Sacramento,Sacramento,Adm,Asian,Christian brothers high school,4
+CHRISTIAN BROTHERS HIGH SCHOOL52697,CHRISTIAN BROTHERS HIGH SCHOOL,Sacramento,Sacramento,App,Asian,Christian brothers high school,5
+CHRISTIAN BROTHERS HIGH SCHOOL52697,CHRISTIAN BROTHERS HIGH SCHOOL,Sacramento,Sacramento,Adm,Hispanic/ Latino,Christian brothers high school,5
+CHRISTIAN BROTHERS HIGH SCHOOL52697,CHRISTIAN BROTHERS HIGH SCHOOL,Sacramento,Sacramento,App,Hispanic/ Latino,Christian brothers high school,6
+CHRISTIAN BROTHERS HIGH SCHOOL52697,CHRISTIAN BROTHERS HIGH SCHOOL,Sacramento,Sacramento,Adm,All,Christian brothers high school,16
+CHRISTIAN BROTHERS HIGH SCHOOL52697,CHRISTIAN BROTHERS HIGH SCHOOL,Sacramento,Sacramento,App,All,Christian brothers high school,18
+CRESPI CARMELITE HIGH SCHOOL50867,CRESPI CARMELITE HIGH SCHOOL,Encino,Los Angeles,Adm,White,Crespi carmelite high school,3
+CRESPI CARMELITE HIGH SCHOOL50867,CRESPI CARMELITE HIGH SCHOOL,Encino,Los Angeles,App,White,Crespi carmelite high school,3
+CRESPI CARMELITE HIGH SCHOOL50867,CRESPI CARMELITE HIGH SCHOOL,Encino,Los Angeles,Adm,Hispanic/ Latino,Crespi carmelite high school,3
+CRESPI CARMELITE HIGH SCHOOL50867,CRESPI CARMELITE HIGH SCHOOL,Encino,Los Angeles,App,Hispanic/ Latino,Crespi carmelite high school,4
+CRESPI CARMELITE HIGH SCHOOL50867,CRESPI CARMELITE HIGH SCHOOL,Encino,Los Angeles,Adm,All,Crespi carmelite high school,7
+CRESPI CARMELITE HIGH SCHOOL50867,CRESPI CARMELITE HIGH SCHOOL,Encino,Los Angeles,App,All,Crespi carmelite high school,9
+CRISTO REY HS-SACRAMENTO54211,CRISTO REY HS-SACRAMENTO,Sacramento,Sacramento,Adm,Hispanic/ Latino,Cristo rey hs-sacramento,25
+CRISTO REY HS-SACRAMENTO54211,CRISTO REY HS-SACRAMENTO,Sacramento,Sacramento,App,Hispanic/ Latino,Cristo rey hs-sacramento,27
+CRISTO REY HS-SACRAMENTO54211,CRISTO REY HS-SACRAMENTO,Sacramento,Sacramento,Enr,All,Cristo rey hs-sacramento,3
+CRISTO REY HS-SACRAMENTO54211,CRISTO REY HS-SACRAMENTO,Sacramento,Sacramento,Adm,All,Cristo rey hs-sacramento,26
+CRISTO REY HS-SACRAMENTO54211,CRISTO REY HS-SACRAMENTO,Sacramento,Sacramento,App,All,Cristo rey hs-sacramento,28
+CRISTO REY SAN JOSE JESUIT HS54860,CRISTO REY SAN JOSE JESUIT HS,San Jose,Santa Clara,Adm,Asian,Cristo rey san jose jesuit hs,6
+CRISTO REY SAN JOSE JESUIT HS54860,CRISTO REY SAN JOSE JESUIT HS,San Jose,Santa Clara,App,Asian,Cristo rey san jose jesuit hs,6
+CRISTO REY SAN JOSE JESUIT HS54860,CRISTO REY SAN JOSE JESUIT HS,San Jose,Santa Clara,Adm,Hispanic/ Latino,Cristo rey san jose jesuit hs,55
+CRISTO REY SAN JOSE JESUIT HS54860,CRISTO REY SAN JOSE JESUIT HS,San Jose,Santa Clara,App,Hispanic/ Latino,Cristo rey san jose jesuit hs,57
+CRISTO REY SAN JOSE JESUIT HS54860,CRISTO REY SAN JOSE JESUIT HS,San Jose,Santa Clara,Enr,All,Cristo rey san jose jesuit hs,3
+CRISTO REY SAN JOSE JESUIT HS54860,CRISTO REY SAN JOSE JESUIT HS,San Jose,Santa Clara,Adm,All,Cristo rey san jose jesuit hs,64
+CRISTO REY SAN JOSE JESUIT HS54860,CRISTO REY SAN JOSE JESUIT HS,San Jose,Santa Clara,App,All,Cristo rey san jose jesuit hs,66
+DAMIEN HIGH SCHOOL52502,DAMIEN HIGH SCHOOL,La Verne,Los Angeles,App,Inter- national,Damien high school,3
+DAMIEN HIGH SCHOOL52502,DAMIEN HIGH SCHOOL,La Verne,Los Angeles,Adm,White,Damien high school,4
+DAMIEN HIGH SCHOOL52502,DAMIEN HIGH SCHOOL,La Verne,Los Angeles,App,White,Damien high school,4
+DAMIEN HIGH SCHOOL52502,DAMIEN HIGH SCHOOL,La Verne,Los Angeles,Adm,Hispanic/ Latino,Damien high school,4
+DAMIEN HIGH SCHOOL52502,DAMIEN HIGH SCHOOL,La Verne,Los Angeles,App,Hispanic/ Latino,Damien high school,4
+DAMIEN HIGH SCHOOL52502,DAMIEN HIGH SCHOOL,La Verne,Los Angeles,Adm,All,Damien high school,10
+DAMIEN HIGH SCHOOL52502,DAMIEN HIGH SCHOOL,La Verne,Los Angeles,App,All,Damien high school,12
+DE LA SALLE HIGH SCHOOL50662,DE LA SALLE HIGH SCHOOL,Concord,Contra Costa,Adm,White,De la salle high school,5
+DE LA SALLE HIGH SCHOOL50662,DE LA SALLE HIGH SCHOOL,Concord,Contra Costa,App,White,De la salle high school,5
+DE LA SALLE HIGH SCHOOL50662,DE LA SALLE HIGH SCHOOL,Concord,Contra Costa,Adm,Asian,De la salle high school,5
+DE LA SALLE HIGH SCHOOL50662,DE LA SALLE HIGH SCHOOL,Concord,Contra Costa,App,Asian,De la salle high school,5
+DE LA SALLE HIGH SCHOOL50662,DE LA SALLE HIGH SCHOOL,Concord,Contra Costa,Adm,Hispanic/ Latino,De la salle high school,6
+DE LA SALLE HIGH SCHOOL50662,DE LA SALLE HIGH SCHOOL,Concord,Contra Costa,App,Hispanic/ Latino,De la salle high school,6
+DE LA SALLE HIGH SCHOOL50662,DE LA SALLE HIGH SCHOOL,Concord,Contra Costa,Enr,All,De la salle high school,3
+DE LA SALLE HIGH SCHOOL50662,DE LA SALLE HIGH SCHOOL,Concord,Contra Costa,Adm,All,De la salle high school,18
+DE LA SALLE HIGH SCHOOL50662,DE LA SALLE HIGH SCHOOL,Concord,Contra Costa,App,All,De la salle high school,18
+EASTSIDE COLLEGE PREP SCHOOL50791,EASTSIDE COLLEGE PREP SCHOOL,East Palo Alto,San Mateo,Adm,Hispanic/ Latino,Eastside college prep school,14
+EASTSIDE COLLEGE PREP SCHOOL50791,EASTSIDE COLLEGE PREP SCHOOL,East Palo Alto,San Mateo,App,Hispanic/ Latino,Eastside college prep school,16
+EASTSIDE COLLEGE PREP SCHOOL50791,EASTSIDE COLLEGE PREP SCHOOL,East Palo Alto,San Mateo,Adm,African American,Eastside college prep school,4
+EASTSIDE COLLEGE PREP SCHOOL50791,EASTSIDE COLLEGE PREP SCHOOL,East Palo Alto,San Mateo,App,African American,Eastside college prep school,5
+EASTSIDE COLLEGE PREP SCHOOL50791,EASTSIDE COLLEGE PREP SCHOOL,East Palo Alto,San Mateo,Enr,All,Eastside college prep school,7
+EASTSIDE COLLEGE PREP SCHOOL50791,EASTSIDE COLLEGE PREP SCHOOL,East Palo Alto,San Mateo,Adm,All,Eastside college prep school,19
+EASTSIDE COLLEGE PREP SCHOOL50791,EASTSIDE COLLEGE PREP SCHOOL,East Palo Alto,San Mateo,App,All,Eastside college prep school,22
+FAIRMONT PREPARATORY ACADEMY50103,FAIRMONT PREPARATORY ACADEMY,Anaheim,Orange,Adm,Inter- national,Fairmont preparatory academy,5
+FAIRMONT PREPARATORY ACADEMY50103,FAIRMONT PREPARATORY ACADEMY,Anaheim,Orange,App,Inter- national,Fairmont preparatory academy,8
+FAIRMONT PREPARATORY ACADEMY50103,FAIRMONT PREPARATORY ACADEMY,Anaheim,Orange,Adm,Asian,Fairmont preparatory academy,10
+FAIRMONT PREPARATORY ACADEMY50103,FAIRMONT PREPARATORY ACADEMY,Anaheim,Orange,App,Asian,Fairmont preparatory academy,10
+FAIRMONT PREPARATORY ACADEMY50103,FAIRMONT PREPARATORY ACADEMY,Anaheim,Orange,Enr,All,Fairmont preparatory academy,3
+FAIRMONT PREPARATORY ACADEMY50103,FAIRMONT PREPARATORY ACADEMY,Anaheim,Orange,Adm,All,Fairmont preparatory academy,18
+FAIRMONT PREPARATORY ACADEMY50103,FAIRMONT PREPARATORY ACADEMY,Anaheim,Orange,App,All,Fairmont preparatory academy,22
+FRANCIS W PARKER SCHOOL52843,FRANCIS W PARKER SCHOOL,San Diego,San Diego,Adm,All,Francis w parker school,7
+FRANCIS W PARKER SCHOOL52843,FRANCIS W PARKER SCHOOL,San Diego,San Diego,App,All,Francis w parker school,7
+FREMONT CHRISTIAN HIGH SCHOOL50978,FREMONT CHRISTIAN HIGH SCHOOL,Fremont,Alameda,Adm,Asian,Fremont christian high school,4
+FREMONT CHRISTIAN HIGH SCHOOL50978,FREMONT CHRISTIAN HIGH SCHOOL,Fremont,Alameda,App,Asian,Fremont christian high school,4
+FREMONT CHRISTIAN HIGH SCHOOL50978,FREMONT CHRISTIAN HIGH SCHOOL,Fremont,Alameda,Adm,All,Fremont christian high school,6
+FREMONT CHRISTIAN HIGH SCHOOL50978,FREMONT CHRISTIAN HIGH SCHOOL,Fremont,Alameda,App,All,Fremont christian high school,6
+GEFFEN ACADEMY AT UCLA51603,GEFFEN ACADEMY AT UCLA,Los Angeles,Los Angeles,Adm,All,Geffen academy at ucla,7
+GEFFEN ACADEMY AT UCLA51603,GEFFEN ACADEMY AT UCLA,Los Angeles,Los Angeles,App,All,Geffen academy at ucla,7
+HARKER SCHOOL53142,HARKER SCHOOL,San Jose,Santa Clara,Adm,Asian,Harker school,12
+HARKER SCHOOL53142,HARKER SCHOOL,San Jose,Santa Clara,App,Asian,Harker school,13
+HARKER SCHOOL53142,HARKER SCHOOL,San Jose,Santa Clara,Adm,All,Harker school,19
+HARKER SCHOOL53142,HARKER SCHOOL,San Jose,Santa Clara,App,All,Harker school,21
+HEAD-ROYCE SCHOOL THE50285,HEAD-ROYCE SCHOOL THE,Oakland,Alameda,Adm,White,Head-royce school the,3
+HEAD-ROYCE SCHOOL THE50285,HEAD-ROYCE SCHOOL THE,Oakland,Alameda,App,White,Head-royce school the,3
+HEAD-ROYCE SCHOOL THE50285,HEAD-ROYCE SCHOOL THE,Oakland,Alameda,App,Asian,Head-royce school the,3
+HEAD-ROYCE SCHOOL THE50285,HEAD-ROYCE SCHOOL THE,Oakland,Alameda,Adm,All,Head-royce school the,7
+HEAD-ROYCE SCHOOL THE50285,HEAD-ROYCE SCHOOL THE,Oakland,Alameda,App,All,Head-royce school the,9
+IMMACULATE CONCEPTION ACADEMY52955,IMMACULATE CONCEPTION ACADEMY,San Francisco,San Francisco,Adm,Asian,Immaculate conception academy,6
+IMMACULATE CONCEPTION ACADEMY52955,IMMACULATE CONCEPTION ACADEMY,San Francisco,San Francisco,App,Asian,Immaculate conception academy,6
+IMMACULATE CONCEPTION ACADEMY52955,IMMACULATE CONCEPTION ACADEMY,San Francisco,San Francisco,Enr,Hispanic/ Latino,Immaculate conception academy,3
+IMMACULATE CONCEPTION ACADEMY52955,IMMACULATE CONCEPTION ACADEMY,San Francisco,San Francisco,Adm,Hispanic/ Latino,Immaculate conception academy,18
+IMMACULATE CONCEPTION ACADEMY52955,IMMACULATE CONCEPTION ACADEMY,San Francisco,San Francisco,App,Hispanic/ Latino,Immaculate conception academy,19
+IMMACULATE CONCEPTION ACADEMY52955,IMMACULATE CONCEPTION ACADEMY,San Francisco,San Francisco,Adm,African American,Immaculate conception academy,3
+IMMACULATE CONCEPTION ACADEMY52955,IMMACULATE CONCEPTION ACADEMY,San Francisco,San Francisco,App,African American,Immaculate conception academy,3
+IMMACULATE CONCEPTION ACADEMY52955,IMMACULATE CONCEPTION ACADEMY,San Francisco,San Francisco,Enr,All,Immaculate conception academy,4
+IMMACULATE CONCEPTION ACADEMY52955,IMMACULATE CONCEPTION ACADEMY,San Francisco,San Francisco,Adm,All,Immaculate conception academy,28
+IMMACULATE CONCEPTION ACADEMY52955,IMMACULATE CONCEPTION ACADEMY,San Francisco,San Francisco,App,All,Immaculate conception academy,29
+IMMACULATE HEART HIGH SCHOOL51625,IMMACULATE HEART HIGH SCHOOL,Los Angeles,Los Angeles,Adm,White,Immaculate heart high school,3
+IMMACULATE HEART HIGH SCHOOL51625,IMMACULATE HEART HIGH SCHOOL,Los Angeles,Los Angeles,App,White,Immaculate heart high school,3
+IMMACULATE HEART HIGH SCHOOL51625,IMMACULATE HEART HIGH SCHOOL,Los Angeles,Los Angeles,Adm,Asian,Immaculate heart high school,5
+IMMACULATE HEART HIGH SCHOOL51625,IMMACULATE HEART HIGH SCHOOL,Los Angeles,Los Angeles,App,Asian,Immaculate heart high school,5
+IMMACULATE HEART HIGH SCHOOL51625,IMMACULATE HEART HIGH SCHOOL,Los Angeles,Los Angeles,Adm,Hispanic/ Latino,Immaculate heart high school,7
+IMMACULATE HEART HIGH SCHOOL51625,IMMACULATE HEART HIGH SCHOOL,Los Angeles,Los Angeles,App,Hispanic/ Latino,Immaculate heart high school,7
+IMMACULATE HEART HIGH SCHOOL51625,IMMACULATE HEART HIGH SCHOOL,Los Angeles,Los Angeles,Adm,All,Immaculate heart high school,15
+IMMACULATE HEART HIGH SCHOOL51625,IMMACULATE HEART HIGH SCHOOL,Los Angeles,Los Angeles,App,All,Immaculate heart high school,15
+IMMANUEL HIGH SCHOOL52613,IMMANUEL HIGH SCHOOL,Reedley,Fresno,Adm,All,Immanuel high school,3
+IMMANUEL HIGH SCHOOL52613,IMMANUEL HIGH SCHOOL,Reedley,Fresno,App,All,Immanuel high school,3
+JESUIT HIGH SCHOOL52714,JESUIT HIGH SCHOOL,Carmichael,Sacramento,Adm,White,Jesuit high school,3
+JESUIT HIGH SCHOOL52714,JESUIT HIGH SCHOOL,Carmichael,Sacramento,App,White,Jesuit high school,3
+JESUIT HIGH SCHOOL52714,JESUIT HIGH SCHOOL,Carmichael,Sacramento,Adm,All,Jesuit high school,6
+JESUIT HIGH SCHOOL52714,JESUIT HIGH SCHOOL,Carmichael,Sacramento,App,All,Jesuit high school,6
+JUNIPERO SERRA HIGH SCHOOL51025,JUNIPERO SERRA HIGH SCHOOL,Gardena,Los Angeles,App,African American,Junipero serra high school,6
+JUNIPERO SERRA HIGH SCHOOL51025,JUNIPERO SERRA HIGH SCHOOL,Gardena,Los Angeles,Adm,All,Junipero serra high school,5
+JUNIPERO SERRA HIGH SCHOOL51025,JUNIPERO SERRA HIGH SCHOOL,Gardena,Los Angeles,App,All,Junipero serra high school,9
+LAUREL SPRINGS SCHOOL52256,LAUREL SPRINGS SCHOOL,Ojai,Ventura,Adm,Asian,Laurel springs school,5
+LAUREL SPRINGS SCHOOL52256,LAUREL SPRINGS SCHOOL,Ojai,Ventura,App,Asian,Laurel springs school,5
+LAUREL SPRINGS SCHOOL52256,LAUREL SPRINGS SCHOOL,Ojai,Ventura,Adm,All,Laurel springs school,9
+LAUREL SPRINGS SCHOOL52256,LAUREL SPRINGS SCHOOL,Ojai,Ventura,App,All,Laurel springs school,11
+LOYOLA HIGH SCHOOL51685,LOYOLA HIGH SCHOOL,Los Angeles,Los Angeles,Adm,White,Loyola high school,5
+LOYOLA HIGH SCHOOL51685,LOYOLA HIGH SCHOOL,Los Angeles,Los Angeles,App,White,Loyola high school,6
+LOYOLA HIGH SCHOOL51685,LOYOLA HIGH SCHOOL,Los Angeles,Los Angeles,Adm,Asian,Loyola high school,4
+LOYOLA HIGH SCHOOL51685,LOYOLA HIGH SCHOOL,Los Angeles,Los Angeles,App,Asian,Loyola high school,4
+LOYOLA HIGH SCHOOL51685,LOYOLA HIGH SCHOOL,Los Angeles,Los Angeles,Adm,Hispanic/ Latino,Loyola high school,5
+LOYOLA HIGH SCHOOL51685,LOYOLA HIGH SCHOOL,Los Angeles,Los Angeles,App,Hispanic/ Latino,Loyola high school,5
+LOYOLA HIGH SCHOOL51685,LOYOLA HIGH SCHOOL,Los Angeles,Los Angeles,Adm,All,Loyola high school,17
+LOYOLA HIGH SCHOOL51685,LOYOLA HIGH SCHOOL,Los Angeles,Los Angeles,App,All,Loyola high school,18
+MARANATHA CHRISTIAN SCHOOLS54056,MARANATHA CHRISTIAN SCHOOLS,San Diego,San Diego,Adm,All,Maranatha christian schools,3
+MARANATHA CHRISTIAN SCHOOLS54056,MARANATHA CHRISTIAN SCHOOLS,San Diego,San Diego,App,All,Maranatha christian schools,3
+MARIN CATHOLIC HIGH SCHOOL53215,MARIN CATHOLIC HIGH SCHOOL,Kentfield,Marin,Adm,Hispanic/ Latino,Marin catholic high school,3
+MARIN CATHOLIC HIGH SCHOOL53215,MARIN CATHOLIC HIGH SCHOOL,Kentfield,Marin,App,Hispanic/ Latino,Marin catholic high school,3
+MARIN CATHOLIC HIGH SCHOOL53215,MARIN CATHOLIC HIGH SCHOOL,Kentfield,Marin,Adm,All,Marin catholic high school,5
+MARIN CATHOLIC HIGH SCHOOL53215,MARIN CATHOLIC HIGH SCHOOL,Kentfield,Marin,App,All,Marin catholic high school,5
+MARY STAR OF THE SEA HIGH SCH53200,MARY STAR OF THE SEA HIGH SCH,San Pedro,Los Angeles,Adm,Hispanic/ Latino,Mary star of the sea high sch,3
+MARY STAR OF THE SEA HIGH SCH53200,MARY STAR OF THE SEA HIGH SCH,San Pedro,Los Angeles,App,Hispanic/ Latino,Mary star of the sea high sch,3
+MARY STAR OF THE SEA HIGH SCH53200,MARY STAR OF THE SEA HIGH SCH,San Pedro,Los Angeles,Adm,All,Mary star of the sea high sch,6
+MARY STAR OF THE SEA HIGH SCH53200,MARY STAR OF THE SEA HIGH SCH,San Pedro,Los Angeles,App,All,Mary star of the sea high sch,7
+MATER DEI CATHOLIC HIGH SCHOOL51244,MATER DEI CATHOLIC HIGH SCHOOL,Chula Vista,San Diego,Adm,Inter- national,Mater dei catholic high school,3
+MATER DEI CATHOLIC HIGH SCHOOL51244,MATER DEI CATHOLIC HIGH SCHOOL,Chula Vista,San Diego,App,Inter- national,Mater dei catholic high school,3
+MATER DEI CATHOLIC HIGH SCHOOL51244,MATER DEI CATHOLIC HIGH SCHOOL,Chula Vista,San Diego,Adm,Hispanic/ Latino,Mater dei catholic high school,18
+MATER DEI CATHOLIC HIGH SCHOOL51244,MATER DEI CATHOLIC HIGH SCHOOL,Chula Vista,San Diego,App,Hispanic/ Latino,Mater dei catholic high school,18
+MATER DEI CATHOLIC HIGH SCHOOL51244,MATER DEI CATHOLIC HIGH SCHOOL,Chula Vista,San Diego,Adm,All,Mater dei catholic high school,24
+MATER DEI CATHOLIC HIGH SCHOOL51244,MATER DEI CATHOLIC HIGH SCHOOL,Chula Vista,San Diego,App,All,Mater dei catholic high school,24
+MONTE VISTA CHRISTIAN HS53705,MONTE VISTA CHRISTIAN HS,Watsonville,Santa Cruz,Adm,Hispanic/ Latino,Monte vista christian hs,4
+MONTE VISTA CHRISTIAN HS53705,MONTE VISTA CHRISTIAN HS,Watsonville,Santa Cruz,App,Hispanic/ Latino,Monte vista christian hs,5
+MONTE VISTA CHRISTIAN HS53705,MONTE VISTA CHRISTIAN HS,Watsonville,Santa Cruz,Adm,All,Monte vista christian hs,6
+MONTE VISTA CHRISTIAN HS53705,MONTE VISTA CHRISTIAN HS,Watsonville,Santa Cruz,App,All,Monte vista christian hs,7
+MOREAU CATHOLIC HIGH SCHOOL51156,MOREAU CATHOLIC HIGH SCHOOL,Hayward,Alameda,Adm,Asian,Moreau catholic high school,15
+MOREAU CATHOLIC HIGH SCHOOL51156,MOREAU CATHOLIC HIGH SCHOOL,Hayward,Alameda,App,Asian,Moreau catholic high school,18
+MOREAU CATHOLIC HIGH SCHOOL51156,MOREAU CATHOLIC HIGH SCHOOL,Hayward,Alameda,Adm,All,Moreau catholic high school,22
+MOREAU CATHOLIC HIGH SCHOOL51156,MOREAU CATHOLIC HIGH SCHOOL,Hayward,Alameda,App,All,Moreau catholic high school,25
+NOTRE DAME HIGH SCHOOL50275,NOTRE DAME HIGH SCHOOL,Belmont,San Mateo,Adm,All,Notre dame high school,7
+NOTRE DAME HIGH SCHOOL50275,NOTRE DAME HIGH SCHOOL,Belmont,San Mateo,App,All,Notre dame high school,7
+NOTRE DAME HIGH SCHOOL53095,NOTRE DAME HIGH SCHOOL,San Jose,Santa Clara,Adm,White,Notre dame high school,4
+NOTRE DAME HIGH SCHOOL53095,NOTRE DAME HIGH SCHOOL,San Jose,Santa Clara,App,White,Notre dame high school,4
+NOTRE DAME HIGH SCHOOL53095,NOTRE DAME HIGH SCHOOL,San Jose,Santa Clara,Adm,Asian,Notre dame high school,12
+NOTRE DAME HIGH SCHOOL53095,NOTRE DAME HIGH SCHOOL,San Jose,Santa Clara,App,Asian,Notre dame high school,12
+NOTRE DAME HIGH SCHOOL53095,NOTRE DAME HIGH SCHOOL,San Jose,Santa Clara,Adm,Hispanic/ Latino,Notre dame high school,4
+NOTRE DAME HIGH SCHOOL53095,NOTRE DAME HIGH SCHOOL,San Jose,Santa Clara,App,Hispanic/ Latino,Notre dame high school,4
+NOTRE DAME HIGH SCHOOL53095,NOTRE DAME HIGH SCHOOL,San Jose,Santa Clara,Adm,All,Notre dame high school,22
+NOTRE DAME HIGH SCHOOL53095,NOTRE DAME HIGH SCHOOL,San Jose,Santa Clara,App,All,Notre dame high school,22
+NOTRE DAME HIGH SCHOOL53370,NOTRE DAME HIGH SCHOOL,Sherman Oaks,Los Angeles,Adm,White,Notre dame high school,4
+NOTRE DAME HIGH SCHOOL53370,NOTRE DAME HIGH SCHOOL,Sherman Oaks,Los Angeles,App,White,Notre dame high school,5
+NOTRE DAME HIGH SCHOOL53370,NOTRE DAME HIGH SCHOOL,Sherman Oaks,Los Angeles,Adm,Asian,Notre dame high school,6
+NOTRE DAME HIGH SCHOOL53370,NOTRE DAME HIGH SCHOOL,Sherman Oaks,Los Angeles,App,Asian,Notre dame high school,6
+NOTRE DAME HIGH SCHOOL53370,NOTRE DAME HIGH SCHOOL,Sherman Oaks,Los Angeles,Adm,Hispanic/ Latino,Notre dame high school,6
+NOTRE DAME HIGH SCHOOL53370,NOTRE DAME HIGH SCHOOL,Sherman Oaks,Los Angeles,App,Hispanic/ Latino,Notre dame high school,7
+NOTRE DAME HIGH SCHOOL53370,NOTRE DAME HIGH SCHOOL,Sherman Oaks,Los Angeles,Adm,African American,Notre dame high school,3
+NOTRE DAME HIGH SCHOOL53370,NOTRE DAME HIGH SCHOOL,Sherman Oaks,Los Angeles,App,African American,Notre dame high school,4
+NOTRE DAME HIGH SCHOOL53370,NOTRE DAME HIGH SCHOOL,Sherman Oaks,Los Angeles,Adm,All,Notre dame high school,19
+NOTRE DAME HIGH SCHOOL53370,NOTRE DAME HIGH SCHOOL,Sherman Oaks,Los Angeles,App,All,Notre dame high school,22
+OAKS CHRISTIAN SCHOOL53746,OAKS CHRISTIAN SCHOOL,Westlake Village,Ventura,Adm,All,Oaks christian school,5
+OAKS CHRISTIAN SCHOOL53746,OAKS CHRISTIAN SCHOOL,Westlake Village,Ventura,App,All,Oaks christian school,5
+PACIFICA CHRISTIAN HS54005,PACIFICA CHRISTIAN HS,Santa Monica,Los Angeles,Adm,Hispanic/ Latino,Pacifica christian hs,3
+PACIFICA CHRISTIAN HS54005,PACIFICA CHRISTIAN HS,Santa Monica,Los Angeles,App,Hispanic/ Latino,Pacifica christian hs,3
+PACIFICA CHRISTIAN HS54005,PACIFICA CHRISTIAN HS,Santa Monica,Los Angeles,Adm,All,Pacifica christian hs,5
+PACIFICA CHRISTIAN HS54005,PACIFICA CHRISTIAN HS,Santa Monica,Los Angeles,App,All,Pacifica christian hs,5
+PRESENTATION HIGH SCHOOL53097,PRESENTATION HIGH SCHOOL,San Jose,Santa Clara,Adm,Asian,Presentation high school,7
+PRESENTATION HIGH SCHOOL53097,PRESENTATION HIGH SCHOOL,San Jose,Santa Clara,App,Asian,Presentation high school,7
+PRESENTATION HIGH SCHOOL53097,PRESENTATION HIGH SCHOOL,San Jose,Santa Clara,Adm,Hispanic/ Latino,Presentation high school,4
+PRESENTATION HIGH SCHOOL53097,PRESENTATION HIGH SCHOOL,San Jose,Santa Clara,App,Hispanic/ Latino,Presentation high school,4
+PRESENTATION HIGH SCHOOL53097,PRESENTATION HIGH SCHOOL,San Jose,Santa Clara,Adm,All,Presentation high school,15
+PRESENTATION HIGH SCHOOL53097,PRESENTATION HIGH SCHOOL,San Jose,Santa Clara,App,All,Presentation high school,15
+PROVIDENCE HIGH SCHOOL50402,PROVIDENCE HIGH SCHOOL,Burbank,Los Angeles,Adm,Hispanic/ Latino,Providence high school,5
+PROVIDENCE HIGH SCHOOL50402,PROVIDENCE HIGH SCHOOL,Burbank,Los Angeles,App,Hispanic/ Latino,Providence high school,5
+PROVIDENCE HIGH SCHOOL50402,PROVIDENCE HIGH SCHOOL,Burbank,Los Angeles,Adm,All,Providence high school,9
+PROVIDENCE HIGH SCHOOL50402,PROVIDENCE HIGH SCHOOL,Burbank,Los Angeles,App,All,Providence high school,9
+REDWOOD CHRISTIAN JR-SR HS50499,REDWOOD CHRISTIAN JR-SR HS,San Lorenzo,Alameda,Adm,Asian,Redwood christian jr-sr hs,3
+REDWOOD CHRISTIAN JR-SR HS50499,REDWOOD CHRISTIAN JR-SR HS,San Lorenzo,Alameda,App,Asian,Redwood christian jr-sr hs,3
+REDWOOD CHRISTIAN JR-SR HS50499,REDWOOD CHRISTIAN JR-SR HS,San Lorenzo,Alameda,Adm,All,Redwood christian jr-sr hs,4
+REDWOOD CHRISTIAN JR-SR HS50499,REDWOOD CHRISTIAN JR-SR HS,San Lorenzo,Alameda,App,All,Redwood christian jr-sr hs,5
+SACRAMENTO COUNTRY DAY SCHOOL52733,SACRAMENTO COUNTRY DAY SCHOOL,Sacramento,Sacramento,Adm,White,Sacramento country day school,4
+SACRAMENTO COUNTRY DAY SCHOOL52733,SACRAMENTO COUNTRY DAY SCHOOL,Sacramento,Sacramento,App,White,Sacramento country day school,4
+SACRAMENTO COUNTRY DAY SCHOOL52733,SACRAMENTO COUNTRY DAY SCHOOL,Sacramento,Sacramento,Adm,Asian,Sacramento country day school,3
+SACRAMENTO COUNTRY DAY SCHOOL52733,SACRAMENTO COUNTRY DAY SCHOOL,Sacramento,Sacramento,App,Asian,Sacramento country day school,4
+SACRAMENTO COUNTRY DAY SCHOOL52733,SACRAMENTO COUNTRY DAY SCHOOL,Sacramento,Sacramento,Adm,All,Sacramento country day school,10
+SACRAMENTO COUNTRY DAY SCHOOL52733,SACRAMENTO COUNTRY DAY SCHOOL,Sacramento,Sacramento,App,All,Sacramento country day school,11
+SACRED HEART CATHEDRAL PREP53005,SACRED HEART CATHEDRAL PREP,San Francisco,San Francisco,Adm,White,Sacred heart cathedral prep,4
+SACRED HEART CATHEDRAL PREP53005,SACRED HEART CATHEDRAL PREP,San Francisco,San Francisco,App,White,Sacred heart cathedral prep,4
+SACRED HEART CATHEDRAL PREP53005,SACRED HEART CATHEDRAL PREP,San Francisco,San Francisco,Adm,Asian,Sacred heart cathedral prep,24
+SACRED HEART CATHEDRAL PREP53005,SACRED HEART CATHEDRAL PREP,San Francisco,San Francisco,App,Asian,Sacred heart cathedral prep,24
+SACRED HEART CATHEDRAL PREP53005,SACRED HEART CATHEDRAL PREP,San Francisco,San Francisco,Adm,Hispanic/ Latino,Sacred heart cathedral prep,11
+SACRED HEART CATHEDRAL PREP53005,SACRED HEART CATHEDRAL PREP,San Francisco,San Francisco,App,Hispanic/ Latino,Sacred heart cathedral prep,12
+SACRED HEART CATHEDRAL PREP53005,SACRED HEART CATHEDRAL PREP,San Francisco,San Francisco,Adm,African American,Sacred heart cathedral prep,3
+SACRED HEART CATHEDRAL PREP53005,SACRED HEART CATHEDRAL PREP,San Francisco,San Francisco,App,African American,Sacred heart cathedral prep,4
+SACRED HEART CATHEDRAL PREP53005,SACRED HEART CATHEDRAL PREP,San Francisco,San Francisco,Adm,All,Sacred heart cathedral prep,43
+SACRED HEART CATHEDRAL PREP53005,SACRED HEART CATHEDRAL PREP,San Francisco,San Francisco,App,All,Sacred heart cathedral prep,45
+SACRED HEART HIGH SCHOOL51760,SACRED HEART HIGH SCHOOL,Los Angeles,Los Angeles,App,Hispanic/ Latino,Sacred heart high school,6
+SACRED HEART HIGH SCHOOL51760,SACRED HEART HIGH SCHOOL,Los Angeles,Los Angeles,Adm,All,Sacred heart high school,5
+SACRED HEART HIGH SCHOOL51760,SACRED HEART HIGH SCHOOL,Los Angeles,Los Angeles,App,All,Sacred heart high school,6
+SAINT AUGUSTINE HIGH SCHOOL52880,SAINT AUGUSTINE HIGH SCHOOL,San Diego,San Diego,Adm,Hispanic/ Latino,Saint augustine high school,3
+SAINT AUGUSTINE HIGH SCHOOL52880,SAINT AUGUSTINE HIGH SCHOOL,San Diego,San Diego,App,Hispanic/ Latino,Saint augustine high school,3
+SAINT AUGUSTINE HIGH SCHOOL52880,SAINT AUGUSTINE HIGH SCHOOL,San Diego,San Diego,Adm,All,Saint augustine high school,6
+SAINT AUGUSTINE HIGH SCHOOL52880,SAINT AUGUSTINE HIGH SCHOOL,San Diego,San Diego,App,All,Saint augustine high school,6
+SAINT BONAVENTURE HIGH SCHOOL53650,SAINT BONAVENTURE HIGH SCHOOL,Ventura,Ventura,App,Hispanic/ Latino,Saint bonaventure high school,3
+SAINT BONAVENTURE HIGH SCHOOL53650,SAINT BONAVENTURE HIGH SCHOOL,Ventura,Ventura,Adm,All,Saint bonaventure high school,6
+SAINT BONAVENTURE HIGH SCHOOL53650,SAINT BONAVENTURE HIGH SCHOOL,Ventura,Ventura,App,All,Saint bonaventure high school,7
+SAINT FRANCIS HIGH SCHOOL52077,SAINT FRANCIS HIGH SCHOOL,Mountain View,Santa Clara,Adm,White,Saint francis high school,4
+SAINT FRANCIS HIGH SCHOOL52077,SAINT FRANCIS HIGH SCHOOL,Mountain View,Santa Clara,App,White,Saint francis high school,4
+SAINT FRANCIS HIGH SCHOOL52077,SAINT FRANCIS HIGH SCHOOL,Mountain View,Santa Clara,Enr,Asian,Saint francis high school,3
+SAINT FRANCIS HIGH SCHOOL52077,SAINT FRANCIS HIGH SCHOOL,Mountain View,Santa Clara,Adm,Asian,Saint francis high school,23
+SAINT FRANCIS HIGH SCHOOL52077,SAINT FRANCIS HIGH SCHOOL,Mountain View,Santa Clara,App,Asian,Saint francis high school,25
+SAINT FRANCIS HIGH SCHOOL52077,SAINT FRANCIS HIGH SCHOOL,Mountain View,Santa Clara,Enr,Hispanic/ Latino,Saint francis high school,3
+SAINT FRANCIS HIGH SCHOOL52077,SAINT FRANCIS HIGH SCHOOL,Mountain View,Santa Clara,Adm,Hispanic/ Latino,Saint francis high school,5
+SAINT FRANCIS HIGH SCHOOL52077,SAINT FRANCIS HIGH SCHOOL,Mountain View,Santa Clara,App,Hispanic/ Latino,Saint francis high school,5
+SAINT FRANCIS HIGH SCHOOL52077,SAINT FRANCIS HIGH SCHOOL,Mountain View,Santa Clara,Enr,All,Saint francis high school,9
+SAINT FRANCIS HIGH SCHOOL52077,SAINT FRANCIS HIGH SCHOOL,Mountain View,Santa Clara,Adm,All,Saint francis high school,35
+SAINT FRANCIS HIGH SCHOOL52077,SAINT FRANCIS HIGH SCHOOL,Mountain View,Santa Clara,App,All,Saint francis high school,37
+SAINT GENEVIEVE HIGH SCHOOL53631,SAINT GENEVIEVE HIGH SCHOOL,Panorama City,Los Angeles,App,Inter- national,Saint genevieve high school,4
+SAINT GENEVIEVE HIGH SCHOOL53631,SAINT GENEVIEVE HIGH SCHOOL,Panorama City,Los Angeles,Adm,Hispanic/ Latino,Saint genevieve high school,6
+SAINT GENEVIEVE HIGH SCHOOL53631,SAINT GENEVIEVE HIGH SCHOOL,Panorama City,Los Angeles,App,Hispanic/ Latino,Saint genevieve high school,8
+SAINT GENEVIEVE HIGH SCHOOL53631,SAINT GENEVIEVE HIGH SCHOOL,Panorama City,Los Angeles,Adm,All,Saint genevieve high school,9
+SAINT GENEVIEVE HIGH SCHOOL53631,SAINT GENEVIEVE HIGH SCHOOL,Panorama City,Los Angeles,App,All,Saint genevieve high school,14
+SAINT IGNATIUS COLLEGE PREP SC53010,SAINT IGNATIUS COLLEGE PREP SC,San Francisco,San Francisco,Adm,White,Saint ignatius college prep sc,5
+SAINT IGNATIUS COLLEGE PREP SC53010,SAINT IGNATIUS COLLEGE PREP SC,San Francisco,San Francisco,App,White,Saint ignatius college prep sc,5
+SAINT IGNATIUS COLLEGE PREP SC53010,SAINT IGNATIUS COLLEGE PREP SC,San Francisco,San Francisco,Adm,Asian,Saint ignatius college prep sc,7
+SAINT IGNATIUS COLLEGE PREP SC53010,SAINT IGNATIUS COLLEGE PREP SC,San Francisco,San Francisco,App,Asian,Saint ignatius college prep sc,8
+SAINT IGNATIUS COLLEGE PREP SC53010,SAINT IGNATIUS COLLEGE PREP SC,San Francisco,San Francisco,Adm,Hispanic/ Latino,Saint ignatius college prep sc,13
+SAINT IGNATIUS COLLEGE PREP SC53010,SAINT IGNATIUS COLLEGE PREP SC,San Francisco,San Francisco,App,Hispanic/ Latino,Saint ignatius college prep sc,16
+SAINT IGNATIUS COLLEGE PREP SC53010,SAINT IGNATIUS COLLEGE PREP SC,San Francisco,San Francisco,App,African American,Saint ignatius college prep sc,5
+SAINT IGNATIUS COLLEGE PREP SC53010,SAINT IGNATIUS COLLEGE PREP SC,San Francisco,San Francisco,Adm,All,Saint ignatius college prep sc,27
+SAINT IGNATIUS COLLEGE PREP SC53010,SAINT IGNATIUS COLLEGE PREP SC,San Francisco,San Francisco,App,All,Saint ignatius college prep sc,34
+SAINT JOHN BOSCO HIGH SCHOOL50260,SAINT JOHN BOSCO HIGH SCHOOL,Bellflower,Los Angeles,Adm,Hispanic/ Latino,Saint john bosco high school,6
+SAINT JOHN BOSCO HIGH SCHOOL50260,SAINT JOHN BOSCO HIGH SCHOOL,Bellflower,Los Angeles,App,Hispanic/ Latino,Saint john bosco high school,7
+SAINT JOHN BOSCO HIGH SCHOOL50260,SAINT JOHN BOSCO HIGH SCHOOL,Bellflower,Los Angeles,Adm,All,Saint john bosco high school,7
+SAINT JOHN BOSCO HIGH SCHOOL50260,SAINT JOHN BOSCO HIGH SCHOOL,Bellflower,Los Angeles,App,All,Saint john bosco high school,10
+SAINT LUCYS PRIORY HIGH SCHOOL51075,SAINT LUCYS PRIORY HIGH SCHOOL,Glendora,Los Angeles,App,Hispanic/ Latino,Saint lucys priory high school,3
+SAINT LUCYS PRIORY HIGH SCHOOL51075,SAINT LUCYS PRIORY HIGH SCHOOL,Glendora,Los Angeles,Adm,All,Saint lucys priory high school,3
+SAINT LUCYS PRIORY HIGH SCHOOL51075,SAINT LUCYS PRIORY HIGH SCHOOL,Glendora,Los Angeles,App,All,Saint lucys priory high school,3
+SAINT MARGARETS EPISCOPAL SCH53112,SAINT MARGARETS EPISCOPAL SCH,San Juan Capistrano,Orange,App,Hispanic/ Latino,Saint margarets episcopal sch,5
+SAINT MARGARETS EPISCOPAL SCH53112,SAINT MARGARETS EPISCOPAL SCH,San Juan Capistrano,Orange,Adm,All,Saint margarets episcopal sch,4
+SAINT MARGARETS EPISCOPAL SCH53112,SAINT MARGARETS EPISCOPAL SCH,San Juan Capistrano,Orange,App,All,Saint margarets episcopal sch,5
+SAINT MARYS COLLEGE HS50310,SAINT MARYS COLLEGE HS,Berkeley,Alameda,Adm,African American,Saint marys college hs,7
+SAINT MARYS COLLEGE HS50310,SAINT MARYS COLLEGE HS,Berkeley,Alameda,App,African American,Saint marys college hs,8
+SAINT MARYS COLLEGE HS50310,SAINT MARYS COLLEGE HS,Berkeley,Alameda,Enr,All,Saint marys college hs,3
+SAINT MARYS COLLEGE HS50310,SAINT MARYS COLLEGE HS,Berkeley,Alameda,Adm,All,Saint marys college hs,12
+SAINT MARYS COLLEGE HS50310,SAINT MARYS COLLEGE HS,Berkeley,Alameda,App,All,Saint marys college hs,13
+SAINT MARYS HIGH SCHOOL53435,SAINT MARYS HIGH SCHOOL,Stockton,San Joaquin,Adm,White,Saint marys high school,3
+SAINT MARYS HIGH SCHOOL53435,SAINT MARYS HIGH SCHOOL,Stockton,San Joaquin,App,White,Saint marys high school,3
+SAINT MARYS HIGH SCHOOL53435,SAINT MARYS HIGH SCHOOL,Stockton,San Joaquin,Adm,Asian,Saint marys high school,7
+SAINT MARYS HIGH SCHOOL53435,SAINT MARYS HIGH SCHOOL,Stockton,San Joaquin,App,Asian,Saint marys high school,8
+SAINT MARYS HIGH SCHOOL53435,SAINT MARYS HIGH SCHOOL,Stockton,San Joaquin,Adm,Hispanic/ Latino,Saint marys high school,6
+SAINT MARYS HIGH SCHOOL53435,SAINT MARYS HIGH SCHOOL,Stockton,San Joaquin,App,Hispanic/ Latino,Saint marys high school,6
+SAINT MARYS HIGH SCHOOL53435,SAINT MARYS HIGH SCHOOL,Stockton,San Joaquin,Adm,All,Saint marys high school,17
+SAINT MARYS HIGH SCHOOL53435,SAINT MARYS HIGH SCHOOL,Stockton,San Joaquin,App,All,Saint marys high school,18
+SAINT PAUL HIGH SCHOOL53761,SAINT PAUL HIGH SCHOOL,Santa Fe Springs,Los Angeles,Adm,Hispanic/ Latino,Saint paul high school,3
+SAINT PAUL HIGH SCHOOL53761,SAINT PAUL HIGH SCHOOL,Santa Fe Springs,Los Angeles,App,Hispanic/ Latino,Saint paul high school,3
+SAINT PAUL HIGH SCHOOL53761,SAINT PAUL HIGH SCHOOL,Santa Fe Springs,Los Angeles,Adm,All,Saint paul high school,4
+SAINT PAUL HIGH SCHOOL53761,SAINT PAUL HIGH SCHOOL,Santa Fe Springs,Los Angeles,App,All,Saint paul high school,5
+SALESIAN COLLEGE PREPARATORY52637,SALESIAN COLLEGE PREPARATORY,Richmond,Contra Costa,Adm,African American,Salesian college preparatory,3
+SALESIAN COLLEGE PREPARATORY52637,SALESIAN COLLEGE PREPARATORY,Richmond,Contra Costa,App,African American,Salesian college preparatory,3
+SALESIAN COLLEGE PREPARATORY52637,SALESIAN COLLEGE PREPARATORY,Richmond,Contra Costa,Adm,All,Salesian college preparatory,6
+SALESIAN COLLEGE PREPARATORY52637,SALESIAN COLLEGE PREPARATORY,Richmond,Contra Costa,App,All,Salesian college preparatory,7
+SAN GABRIEL ACADEMY53054,SAN GABRIEL ACADEMY,San Gabriel,Los Angeles,App,All,San gabriel academy,3
+SAN GABRIEL MISSION HIGH SCH53061,SAN GABRIEL MISSION HIGH SCH,San Gabriel,Los Angeles,App,Hispanic/ Latino,San gabriel mission high sch,3
+SAN GABRIEL MISSION HIGH SCH53061,SAN GABRIEL MISSION HIGH SCH,San Gabriel,Los Angeles,Adm,All,San gabriel mission high sch,3
+SAN GABRIEL MISSION HIGH SCH53061,SAN GABRIEL MISSION HIGH SCH,San Gabriel,Los Angeles,App,All,San gabriel mission high sch,3
+SAN JOAQUIN MEMORIAL HS50990,SAN JOAQUIN MEMORIAL HS,Fresno,Fresno,Adm,Asian,San joaquin memorial hs,3
+SAN JOAQUIN MEMORIAL HS50990,SAN JOAQUIN MEMORIAL HS,Fresno,Fresno,App,Asian,San joaquin memorial hs,3
+SAN JOAQUIN MEMORIAL HS50990,SAN JOAQUIN MEMORIAL HS,Fresno,Fresno,Adm,Hispanic/ Latino,San joaquin memorial hs,7
+SAN JOAQUIN MEMORIAL HS50990,SAN JOAQUIN MEMORIAL HS,Fresno,Fresno,App,Hispanic/ Latino,San joaquin memorial hs,7
+SAN JOAQUIN MEMORIAL HS50990,SAN JOAQUIN MEMORIAL HS,Fresno,Fresno,Adm,All,San joaquin memorial hs,12
+SAN JOAQUIN MEMORIAL HS50990,SAN JOAQUIN MEMORIAL HS,Fresno,Fresno,App,All,San joaquin memorial hs,12
+SERVITE HIGH SCHOOL50088,SERVITE HIGH SCHOOL,Anaheim,Orange,Adm,White,Servite high school,3
+SERVITE HIGH SCHOOL50088,SERVITE HIGH SCHOOL,Anaheim,Orange,App,White,Servite high school,3
+SERVITE HIGH SCHOOL50088,SERVITE HIGH SCHOOL,Anaheim,Orange,Adm,Hispanic/ Latino,Servite high school,9
+SERVITE HIGH SCHOOL50088,SERVITE HIGH SCHOOL,Anaheim,Orange,App,Hispanic/ Latino,Servite high school,9
+SERVITE HIGH SCHOOL50088,SERVITE HIGH SCHOOL,Anaheim,Orange,Adm,All,Servite high school,16
+SERVITE HIGH SCHOOL50088,SERVITE HIGH SCHOOL,Anaheim,Orange,App,All,Servite high school,16
+STONE RIDGE CHRISTIAN HIGH SCH51944,STONE RIDGE CHRISTIAN HIGH SCH,Merced,Merced,Adm,All,Stone ridge christian high sch,4
+STONE RIDGE CHRISTIAN HIGH SCH51944,STONE RIDGE CHRISTIAN HIGH SCH,Merced,Merced,App,All,Stone ridge christian high sch,4
+TURLOCK CHRISTIAN HS53564,TURLOCK CHRISTIAN HS,Turlock,Stanislaus,Adm,All,Turlock christian hs,5
+TURLOCK CHRISTIAN HS53564,TURLOCK CHRISTIAN HS,Turlock,Stanislaus,App,All,Turlock christian hs,5
+UNITED CHRISTIAN ACADEMY54356,UNITED CHRISTIAN ACADEMY,Rancho Cucamonga,San Bernardino,App,Inter- national,United christian academy,4
+UNITED CHRISTIAN ACADEMY54356,UNITED CHRISTIAN ACADEMY,Rancho Cucamonga,San Bernardino,App,All,United christian academy,4
+VALLEY CHRISTIAN HIGH SCHOOL50157,VALLEY CHRISTIAN HIGH SCHOOL,Cerritos,Los Angeles,Adm,All,Valley christian high school,5
+VALLEY CHRISTIAN HIGH SCHOOL50157,VALLEY CHRISTIAN HIGH SCHOOL,Cerritos,Los Angeles,App,All,Valley christian high school,6
+VALLEY CHRISTIAN HIGH SCHOOL53338,VALLEY CHRISTIAN HIGH SCHOOL,San Jose,Santa Clara,App,Inter- national,Valley christian high school,3
+VALLEY CHRISTIAN HIGH SCHOOL53338,VALLEY CHRISTIAN HIGH SCHOOL,San Jose,Santa Clara,App,Domestic unknown,Valley christian high school,4
+VALLEY CHRISTIAN HIGH SCHOOL53338,VALLEY CHRISTIAN HIGH SCHOOL,San Jose,Santa Clara,Adm,White,Valley christian high school,7
+VALLEY CHRISTIAN HIGH SCHOOL53338,VALLEY CHRISTIAN HIGH SCHOOL,San Jose,Santa Clara,App,White,Valley christian high school,7
+VALLEY CHRISTIAN HIGH SCHOOL53338,VALLEY CHRISTIAN HIGH SCHOOL,San Jose,Santa Clara,Adm,Asian,Valley christian high school,13
+VALLEY CHRISTIAN HIGH SCHOOL53338,VALLEY CHRISTIAN HIGH SCHOOL,San Jose,Santa Clara,App,Asian,Valley christian high school,13
+VALLEY CHRISTIAN HIGH SCHOOL53338,VALLEY CHRISTIAN HIGH SCHOOL,San Jose,Santa Clara,Adm,Hispanic/ Latino,Valley christian high school,3
+VALLEY CHRISTIAN HIGH SCHOOL53338,VALLEY CHRISTIAN HIGH SCHOOL,San Jose,Santa Clara,App,Hispanic/ Latino,Valley christian high school,3
+VALLEY CHRISTIAN HIGH SCHOOL53338,VALLEY CHRISTIAN HIGH SCHOOL,San Jose,Santa Clara,Adm,African American,Valley christian high school,4
+VALLEY CHRISTIAN HIGH SCHOOL53338,VALLEY CHRISTIAN HIGH SCHOOL,San Jose,Santa Clara,App,African American,Valley christian high school,4
+VALLEY CHRISTIAN HIGH SCHOOL53338,VALLEY CHRISTIAN HIGH SCHOOL,San Jose,Santa Clara,Adm,All,Valley christian high school,33
+VALLEY CHRISTIAN HIGH SCHOOL53338,VALLEY CHRISTIAN HIGH SCHOOL,San Jose,Santa Clara,App,All,Valley christian high school,34
+VERBUM DEI HIGH SCHOOL51829,VERBUM DEI HIGH SCHOOL,Los Angeles,Los Angeles,Adm,Hispanic/ Latino,Verbum dei high school,3
+VERBUM DEI HIGH SCHOOL51829,VERBUM DEI HIGH SCHOOL,Los Angeles,Los Angeles,App,Hispanic/ Latino,Verbum dei high school,6
+VERBUM DEI HIGH SCHOOL51829,VERBUM DEI HIGH SCHOOL,Los Angeles,Los Angeles,Adm,All,Verbum dei high school,5
+VERBUM DEI HIGH SCHOOL51829,VERBUM DEI HIGH SCHOOL,Los Angeles,Los Angeles,App,All,Verbum dei high school,8
+VISTAMAR SCHOOL53973,VISTAMAR SCHOOL,El Segundo,Los Angeles,Adm,All,Vistamar school,5
+VISTAMAR SCHOOL53973,VISTAMAR SCHOOL,El Segundo,Los Angeles,App,All,Vistamar school,6
